@@ -7,7 +7,7 @@ pipeline {
     agent any
 
     environment {
-        cluster = "vproappProd"
+        cluster = "vproappprod"
         service = "vprofileapptask-service-prod"
     }
 
